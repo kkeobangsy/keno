@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708401612 source:c:\users\17272\desktop\c++\keno\main.cpp
+	<regex>
+	<iostream>
+	<cstdlib>
+
