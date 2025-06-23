@@ -5,6 +5,9 @@
 using namespace std;
 
 
+//<< "Click on the play button with a small bug on it on the left and go to the bottom of the screen. click on terminal and answer the question";
+
+
 
 void genRandom(int pickNums[], int pickCount)
 {
